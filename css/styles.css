@@ -19,14 +19,14 @@ h1,h2,h3,h4,h5,h6,ul,ol,table,form{
   color: #eeeeee;
 }
 img:hover{
-  background-color: blue;
+  background-color: white;
   border-radius: 25%;
 }
-.s{
+.s:hover{
   color: red;
 }
-.s1{color: green;}
-#c{
+.s1:hover{color: green;}
+#c:hover{
   color: blue;
 }
-#c1{color: yellow;}
+#c1:hover{color: yellow;}
